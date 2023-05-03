@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Finding Manta](https://github.com/msong1/finding-manta)  
   
 
-- 🌱 I’m currently learning GraphQL  
+- 🌱 I’m currently learning TypeScript  
   
 
 - ❓ Ask me about anything related to PERN stack and related technologies  
