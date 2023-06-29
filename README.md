@@ -1,7 +1,7 @@
 ### <div align="center">I'm Minseok, a full-stack developer</div>  
   
 
-- 🔭 I’m currently working on [Finding Manta](https://github.com/msong1/finding-manta)  
+- 🔭 I’m currently working on [Finding Manta](https://github.com/msong1/finding-manta-v2)  
   
 
 - 🌱 I’m currently learning TypeScript  
